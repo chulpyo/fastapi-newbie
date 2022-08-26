@@ -1,5 +1,6 @@
 # FastAPI Boilerplate for Newbies
-A simple boilerplate for building RESTful APIs using FastAPI
+A simple boilerplate for building RESTful APIs using FastAPI  
+made by newbie
 
 ## Features
 - TBD
