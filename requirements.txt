@@ -1,0 +1,10 @@
+uvicorn
+fastapi[all]
+sqlalchemy
+psycopg2
+pytest
+click
+pyjwt
+cryptography
+python-jose
+pydantic

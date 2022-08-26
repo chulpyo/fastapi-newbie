@@ -1,0 +1,13 @@
+{
+    // "python.testing.cwd": "${workspaceFolder}/src/app",
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": [
+        "src",
+        "-s"
+    ],
+    "python.testing.unittestEnabled": false,
+    "terminal.integrated.cwd": "${workspaceFolder}",
+    "window.zoomLevel": -1,
+    "notebook.output.textLineLimit": 100,
+    "editor.minimap.enabled": false
+}
